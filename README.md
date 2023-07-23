@@ -8,7 +8,7 @@ Tomato Plant Disease Detection using Convolutional Neural Networks (CNN) is a pr
 
 1. Clone this repository to your local machine.
 
-2. Install the required dependencies (Python, TensorFlow, Keras, etc.) using `requirements.txt`.
+2. Install the required dependencies (Python, TensorFlow, Keras, etc.).
 
 3. Preprocess the dataset, train the CNN model, and evaluate its performance using the provided scripts.
 
